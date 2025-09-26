@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Siri i język polski</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; background-color: #f5f5f5; }
+        h1 { color: #007AFF; }
+        a { color: #007AFF; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        .link-list { margin-top: 20px; }
+        .link-list li { margin-bottom: 10px; }
+        .note { margin-top: 20px; font-style: italic; color: #555; }
+    </style>
+</head>
+<body>
+    <h1>Siri i język polski</h1>
+    <p>
+        Aktualnie Siri nie obsługuje języka polskiego. Apple nie udostępniło oficjalnie wsparcia dla tego języka,
+        a Siri reaguje tylko w językach dostępnych w systemie. Istnieją jednak alternatywy i informacje pomocnicze:
+    </p>
+
+    <ul class="link-list">
+        <li><a href="https://discussions.apple.com/thread/256078738" target="_blank">Dyskusja Apple o Siri po polsku</a></li>
+        <li><a href="https://android.com.pl/tech/901657-kiedy-siri-po-polsku-nowe-informacje/" target="_blank">Artykuł o dostępności Siri po polsku</a></li>
+        <li><a href="https://support.apple.com/pl-pl/guide/iphone/ipha48873ed6/ios" target="_blank">Wsparcie Apple – informacje o Siri</a></li>
+        <li><a href="https://www.theverge.com/2024/10/28/24281947/apple-intelligence-eu-iphones-april" target="_blank">Informacje o przyszłych aktualizacjach Apple Intelligence</a></li>
+    </ul>
+
+    <p class="note">
+        Możesz używać Siri w języku angielskim lub alternatywnych asystentów, takich jak Google Assistant,
+        który obsługuje język polski na iOS.
+    </p>
+</body>
+</html>
